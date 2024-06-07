@@ -1,6 +1,6 @@
 ### Hi There 👋 I'm Mujahid.
 
-An undergraduate student at Universitas Komputer Indonesia and also a Machine Learning Path Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) led by Google, Tokopedia, Gojek, & Traveloka.
+An undergraduate student at Universitas Komputer Indonesia and also a Machine Learning Path Graduate at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) led by Google, Tokopedia, Gojek, & Traveloka.
 
 - 🌱 I’m currently learning about Machine learning and Data Analytics programming
 - 📫 How to reach me: mujahidfathulrabbani442@gmail.com or [LinkedIn](https://www.linkedin.com/in/jahidrbb)
